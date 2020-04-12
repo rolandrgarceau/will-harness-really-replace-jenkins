@@ -14,5 +14,5 @@ Try the get started.
 
 tl;dr
 
-The get started was cryptic. It's another dryrun showcase. Logs dictate this. If the "created" resources actually get provisioned from all the "compatible" tooling, it would have had to pause and ask authentication questions. What does that really look like? Well I know I didn't put in my AWS account information for a IAM role, permissions to be modified, or allowed for ARN's to be built on my behalf. I will find my notes momentarily and get them posted here.
+The get started was cryptic. It's another --dryrun showcase. Logs dictate this. If the "created" resources actually get provisioned from all the "compatible" tooling, it would have had to pause and ask authentication questions. What does that really look like? Well I know I didn't put in my AWS account information for a IAM role, permissions to be modified, or allowed for ARN's to be built on my behalf. I will find my notes momentarily and get them posted here.
 
